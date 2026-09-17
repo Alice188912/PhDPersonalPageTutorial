@@ -9,14 +9,78 @@
   Good options for academic pages: Lora, Source Serif 4, Libre Baskerville, Merriweather
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&family=Nunito:wght@400;500;600;700;800&display=swap');
+
+:root {
+  --pastel-bg-1: #fdf2ff;
+  --pastel-bg-2: #f5eefe;
+  --pastel-bg-3: #fdf3f8;
+  --pastel-violet: #a78bfa;
+  --pastel-violet-strong: #7c3aed;
+  --pastel-pink: #f9a8d4;
+  --pastel-rose: #fbcfe8;
+  --pastel-lilac: #e9d5ff;
+  --ink: #3d2a4d;
+  --soft-card: rgba(255, 255, 255, 0.62);
+  --soft-border: rgba(124, 58, 237, 0.18);
+}
+
+html,
+body {
+  background:
+    radial-gradient(circle at top left, rgba(250, 204, 21, 0.12), transparent 28%),
+    radial-gradient(circle at top right, rgba(216, 180, 254, 0.35), transparent 32%),
+    linear-gradient(180deg, var(--pastel-bg-1) 0%, var(--pastel-bg-2) 42%, var(--pastel-bg-3) 100%);
+  background-attachment: fixed;
+  color: var(--ink);
+}
 
 body {
   font-family: 'Lora', Georgia, serif;
+  min-height: 100vh;
+  position: relative;
+  overflow-x: hidden;
 }
 
+body::before,
+body::after {
+  content: "";
+  position: fixed;
+  inset: auto;
+  pointer-events: none;
+  z-index: 0;
+  filter: blur(18px);
+  opacity: 0.6;
+}
 
+body::before {
+  width: 260px;
+  height: 260px;
+  left: 6%;
+  top: 8%;
+  background: rgba(251, 191, 36, 0.18);
+  border-radius: 50%;
+  animation: floaty 10s ease-in-out infinite;
+}
 
+body::after {
+  width: 320px;
+  height: 320px;
+  right: 8%;
+  bottom: 6%;
+  background: rgba(196, 181, 253, 0.35);
+  border-radius: 50%;
+  animation: floaty 13s ease-in-out infinite reverse;
+}
+
+main,
+header,
+footer,
+article,
+.prose {
+  position: relative;
+  z-index: 1;
+}
 
 /*
   FONT SIZE
@@ -38,25 +102,127 @@ article,
   These are set relative to the body font size (rem).
 */
 
+h1,
+h2,
+h3,
+h4 {
+  font-family: 'Nunito', 'Segoe UI', sans-serif;
+  color: #4c2d61;
+  letter-spacing: 0.02em;
+}
+
 h1 {
-  font-size: 1.5rem;
+  font-size: 1.8rem;
+  font-weight: 800;
 }
 
 h2 {
-  font-size: 1.1rem;
+  font-size: 1.2rem;
+  font-weight: 700;
 }
 
 h3 {
-  font-size: 1.05rem;
+  font-size: 1.08rem;
+  font-weight: 700;
 }
 
-/* Site background in purple */
-html,
-body {
-  background: linear-gradient(180deg, #7c3aed 0%, #5b21b6 100%);
-  background-attachment: fixed;
+.site-header,
+header,
+nav,
+article,
+.page,
+section,
+.card,
+.related,
+#single_header,
+#TOCView {
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
 }
 
-body {
-  min-height: 100vh;
+.site-header {
+  background: rgba(255, 255, 255, 0.32) !important;
+  border-bottom: 1px solid var(--soft-border);
+  box-shadow: 0 8px 24px rgba(124, 58, 237, 0.08);
+}
+
+body a {
+  color: var(--pastel-violet-strong);
+  transition: all 0.25s ease;
+}
+
+body a:hover,
+body a:focus {
+  color: #6d28d9;
+  text-decoration-color: rgba(124, 58, 237, 0.6);
+}
+
+article,
+.prose,
+main .max-w-prose,
+main article,
+#single_header {
+  background: var(--soft-card);
+  border: 1px solid var(--soft-border);
+  border-radius: 24px;
+  box-shadow: 0 16px 40px rgba(124, 58, 237, 0.08);
+  padding: 1.5rem 1.6rem;
+}
+
+.prose blockquote {
+  border-left-color: var(--pastel-violet);
+  background: rgba(255, 255, 255, 0.35);
+  border-radius: 14px;
+  padding: 0.8rem 1rem;
+  color: #5d4472;
+}
+
+.prose ul>li::marker,
+.prose ol>li::marker {
+  color: var(--pastel-violet-strong);
+}
+
+button,
+[role='button'],
+.button,
+.pagination a {
+  border-radius: 999px !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease !important;
+}
+
+button:hover,
+[role='button']:hover,
+.button:hover,
+.pagination a:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 18px rgba(124, 58, 237, 0.18);
+}
+
+html:not(.dark) .dark\:prose-invert {
+  background: transparent !important;
+}
+
+@keyframes floaty {
+
+  0%,
+  100% {
+    transform: translateY(0px) translateX(0px);
+  }
+
+  50% {
+    transform: translateY(-18px) translateX(10px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+
+  body::before,
+  body::after {
+    animation: none;
+  }
+
+  * {
+    scroll-behavior: auto !important;
+    transition: none !important;
+  }
 }

@@ -8,18 +8,16 @@ showAuthor: false
 
 ## Bio
 
-I am **Dr. Reginald Huffington-Smythe III**, Professor of Postmodern Semiotics and Chair of the Subcommittee on Departmental Refrigerator Usage Policy at the University of Upper Boroughwick.
+I am **Dr. Reginald Huffington-Smythe III**, a scholar of postmodern semiotics with a soft spot for the overlooked details of everyday life. At the University of Upper Boroughwick, I work at the intersection of language, culture, and the emotional architecture of institutional spaces.
 
-I completed my doctorate at the University of Cambridge on the topic of *"Deconstructing the Croissant: Pastry as Colonial Metaphor in 19th Century French Literature"*, a work my supervisor described as "ambitious" and my mother described as "a waste of a perfectly good education."
-
-Before joining Upper Boroughwick, I held positions at three institutions I prefer not to name for reasons that are largely legal in nature.
+My doctoral work, *Deconstructing the Croissant: Pastry as Colonial Metaphor in 19th Century French Literature*, was ambitious enough to be praised by supervisors and lightly feared by the pastry section of the local café. Since then, I’ve continued exploring how meaning accumulates in the ordinary — parking tickets, office jargon, instruction manuals, waiting rooms, and the hidden rhythms of everyday ritual.
 
 ## Research Interests
 
-- Postmodern semiotics and the meaning of meaning (and whether meaning means anything)
-- Critical discourse analysis of bureaucratic language (my magnum opus: 47 pages on a parking ticket)
-- The semiotic implications of IKEA instruction manuals
-- Crossword puzzle theory (yes, this counts as research; I have published on it)
+- Postmodern semiotics and the poetics of the ordinary
+- Critical discourse analysis of bureaucratic and institutional language
+- The emotional life of objects, spaces, and everyday rituals
+- Crossword puzzles as a laboratory for pattern, ambiguity, and delight
 
 ## Education
 
@@ -27,15 +25,15 @@ Before joining Upper Boroughwick, I held positions at three institutions I prefe
 Thesis: *Deconstructing the Croissant: Pastry as Colonial Metaphor in 19th Century French Literature*
 
 **MA** — University of Edinburgh, 2003  
-Thesis: *The Semiotics of "Out of Office" Email Replies*
+Thesis: *The Semiotics of “Out of Office” Email Replies*
 
 **BA (Hons)** — University of Bristol, 2001  
-In: English Literature and Philosophy, with a minor in avoiding my supervisor
+In: English Literature and Philosophy, with a minor in surviving supervision meetings
 
 ## Personal
 
-Outside of academia, I am an amateur competitive crossword solver (regional finalist, 2019 and 2022), a reluctant dog owner (the dog's name is Derrida, which I regret), and an enthusiastic but technically mediocre amateur clarinettist.
+Outside of academia, I am an amateur crossword solver, an unrepentant fan of well-placed punctuation, and a curious observer of the tiny rituals that make campus life feel human. I also enjoy quiet cafés, soft jazz, and the kind of research conversations that begin as a joke and end with a paper.
 
-I take my coffee black, my peer reviews anonymous, and my theoretical frameworks French.
+I take my coffee black, my peer reviews anonymous, and my theoretical frameworks gently but firmly French.
 
 {{< youtube 0RKpf3rK57I >}}

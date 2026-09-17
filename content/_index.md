@@ -1,10 +1,12 @@
 ---
 title: "Dr. Reginald Huffington-Smythe III"
-description: "Professor of Postmodern Semiotics. Amateur Competitive Crossword Solver. Reluctant dog owner."
+description: "A gentle scholar of meaning, campus charm, and the subtext hidden in ordinary life."
 ---
 
-Hi! o(╥﹏╥)oI'm a Professor of Postmodern Semiotics at the University of Upper Boroughwick, where I've been asking "but what does it *mean*?" about increasingly mundane objects since 2009.
+Hello, lovely soul ✨ I’m a scholar of language, everyday symbols, and the strange little dramas hiding inside ordinary objects. My work sits at the crossroads of semiotics, discourse, and the comforting chaos of university life.
 
-My research focuses on the hidden power structures embedded in everyday language — parking tickets, IKEA manuals, corporate mission statements, and the passive-aggressive subtext of "per my last email." I'm also, inexplicably, a competitive crossword solver.
+I study how meaning quietly accumulates in the corners of everyday life — in office emails, bureaucratic wording, shared rituals, and the soft power of a well-placed comma. I’m especially interested in how seemingly trivial things carry emotional and historical weight.
 
-Outside of work I play the clarinet badly, walk my dog Derrida reluctantly, and have very strong opinions about the Oxford comma that I will share unprompted.
+My research is part methodical analysis, part curious affection for the overlooked details that make life feel alive. Outside the archive, I’m a crossword enthusiast, a devoted listener to campus gossip, and a firm believer that beautiful thinking deserves a beautiful atmosphere.
+
+> “Good scholarship should feel a little curious, a little tender, and just a bit magical.”
