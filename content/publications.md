@@ -6,41 +6,40 @@ showReadingTime: false
 showAuthor: false
 ---
 
-## Books
+## Book Chapters
 
-**Huffington-Smythe, R.** (2022). *Against Clarity: A Defense of Academic Prose*. Obscura University Press.  
-> "Provocative, reflective, and quietly devastating in the best possible way." — *Journal of Critical Theory*
+- 2026. "Intimate Disruptions: Visuality, Affect, and the Politics of Colour in Eileen Chang", in *The Politics of Intermedial Modernism*, edited by Elicia Clements. DOI: [10.4324/9781003654513-6](https://doi.org/10.4324/9781003654513-6).
 
-**Huffington-Smythe, R.** (2018). *The Semiotics of the Waiting Room: Power, Chairs, and the Politics of Magazines*. Boroughwick Academic Press.  
-> "A brave and beautifully observed study." — *Humanities Quarterly*
-
-**Huffington-Smythe, R.** (2013). *Deconstructing the Croissant: Pastry as Colonial Metaphor* (Revised edition). Cambridge Monograph Series.
+- 2027. "An Eccentric Typewriter: Virginia Woolf and the Mechanized Writing Composition", in *Selected Papers from the 33rd Annual International Conference on Virginia Woolf: Woolf, Modernity, Technology* (forthcoming).
 
 ---
 
 ## Journal Articles
 
-**Huffington-Smythe, R.** (2024). "What Does a Parking Ticket Mean? A Foucauldian Reading of Municipal Discourse." *Language & Power*, 41(2), 88–112.
+- 2024. "Redefining Conrad Through a Comparative Lens: Tracing Literary Influences in Lao She's Southeast Asia", *The Conradian*, Vol. 49, No. 2 (Autumn 2024), pp. 86–103. [Issue page](https://www.josephconradsociety.org/the-conradian/the-conradian-recent-issues/)
 
-**Huffington-Smythe, R.**, & Fairbanks, O. (2023). "IKEA, Therefore I Am: Flat-Pack Furniture as Existential Crisis." *Cultural Semiotics Review*, 18(4), 201–229.
-
-**Huffington-Smythe, R.** (2022). "On the Semiotics of the 'Reply All' Email." *New Media & Language*, 9(1), 14–38.
-
-**Huffington-Smythe, R.** (2019). "The Crossword as Epistemological Practice: Knowing, Filling, and the Anxiety of the Blank Square." *Puzzles & Culture*, 3(1), 5–31.
-
-**Huffington-Smythe, R.** (2016). "Towards a Grammar of the Vague: Hedging, Uncertainty, and the Academic Abstract." *Discourse Studies*, 28(6), 744–769.
+- 2024. "Pictorial Modernism(s) in an Interdisciplinary and Cross-Cultural Context", *Caietele Echinox*, vol. 47, pp. 190–207.
 
 ---
 
-## Book Chapters
+## Conference Articles
 
-Huffington-Smythe, R. (2021). "Laundry Instructions as Oppressive Discourse." In P. Bartholomew & S. Nkosi (Eds.), *Everyday Texts, Hidden Powers* (pp. 113–134). Routledge.
-
-Huffington-Smythe, R. (2017). "The Semiotics of the Conference Lanyard." In *Anthropologies of the Academic* (pp. 57–78). Sage.
+- Zhu, Shiyi. "Poetic Justice And Its Inconsistencies: Poetry as a Tool for Moral Education in Ancient Greece." The 2nd International Conference on Language, Art and Cultural Exchange, May 2021, Dali, China. DOI: [10.2991/assehr.k.210609.020](https://www.atlantis-press.com/proceedings/iclace-21/125957622)
 
 ---
 
-## Under Review / In Progress
+## Conference Papers
 
-- *The Meaning of Meaninglessness: A Comprehensive Guide* (monograph, under contract)
-- "What Does the Ellipsis Want? Three Dots and the Crisis of Digital Intimacy" (under review, *New Media & Society*)
+- 2023. "Out And In Again': Nature and the Machinery in Virginia Woolf's *The Waves*", 32nd Annual International Conference on Virginia Woolf, Florida Gulf Coast University.
+
+- 2023. "A collaborative storytelling and the self-reflexive gaze: Imagining, Visualizing, and Adapting African exoticism through video games", Global Digital Humanities Symposium 2023, Michigan State University, online.
+
+- 2023. "'Do you think I am a hypocrite?': Unveiling, Dramatizing and Reconciling Identity Anxiety in MazM: Jekyll and Hyde", OSL Symposium "Lifting the Veil: Science, Superstition, and the Supernatural", University of Groningen.
+
+- 2022. "Domestication or Foreignization? A Case Study on the English Translation of the Guide Signs in Temple of Heaven Park", The 18th Annual International Conference of the China Association for Intercultural Communication (CAFIC), Zhuhai College of Beijing Institute of Technology.
+
+- 2021. "The Great Wall from the Perspective of the 'Other': A Study of the National Geographic Documentary *The Great Wall of China*", The 17th Annual International Conference of the China Association for Intercultural Communication (CAFIC), Ningxia University.
+
+- 2021. "Poetic Justice And Its Inconsistencies: Poetry as a Tool for Moral Education in Ancient Greece", The 2nd International Conference on Language, Art and Cultural Exchange, Dali, China.
+
+- 2021. "First-Person Narrator And the Constructive Storytelling in Lermontov's 'Bela'", The Fifth Graduate Academic Forum of the Department of Humanities and Social Sciences, Beijing Language and Culture University.

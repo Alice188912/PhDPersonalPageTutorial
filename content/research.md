@@ -6,42 +6,41 @@ showReadingTime: false
 showAuthor: false
 ---
 
-## Current Projects
+## Current Research
 
-### The Grammar of the Vague (ERC-funded, 2023–2026)
+### Modern Self and Modern Horror: Post-Impressionist Aesthetics in Virginia Woolf and Eileen Chang
 
-This project explores how institutions soften, blur, and strategically evade absolute meaning through hedging, euphemism, and polished ambiguity. We are building a corpus of university policy language, government communications, and corporate strategy documents to map the subtle architecture of vague authority.
+This is the core dissertation project of my PhD research. It examines how modern selfhood and modern horror are shaped through post-impressionist aesthetics in the works of Virginia Woolf and Eileen Chang. The project studies how aesthetic form, visual perception, and affect come together to produce modern subjectivity and emotional disturbance.
 
-*Team: Dr. Huffington-Smythe (PI), 2 postdocs, 1 very dedicated PhD student*
-
----
-
-### Everyday Semiotics Lab
-
-A collaborative initiative examining the meanings embedded in ordinary routines and banal objects: crossword puzzles, email signatures, office rituals, shared kitchens, and the social choreography of waiting rooms.
-
-We meet on Thursdays at 4pm and always end up discussing something unexpectedly important.
+The project is grounded in comparative literary analysis and aims to bridge modernist studies with Chinese modernity, feminist aesthetics, and intermedial interpretation.
 
 ---
 
-### The Crossword Studies Archive
+### Word/Image Studies and Intermedial Modernism
 
-A long-running personal project, and arguably an academic one, tracing the cultural history of the cryptic crossword in Britain. Funded by curiosity, a small travel grant, and a stubborn attachment to puzzle patterns.
-
----
-
-## Past Projects
-
-**Semiotics of the Waiting Room** (AHRC, 2014–2017)  
-Investigated the spatial and material politics of healthcare, legal, and bureaucratic waiting rooms across the UK, with a focus on chairs, silence, and institutional discomfort.
-
-**Pastry, Power, and the Postcolonial** (Cambridge, 2004–2007)  
-Doctoral research on French culinary imagery in 19th-century imperial literature, exploring how taste, power, and cultural memory are fused through everyday objects.
+My research extends into the relationship between textual and visual forms, exploring how literary narratives are shaped by visuality, compositional structure, and cross-cultural modernism. I am particularly interested in the role of colour, affect, and media in the production of modern experience.
 
 ---
 
-## Collaborators
+### Chinese Modernity and Feminist Aesthetics
 
-I work with scholars across linguistics, cultural studies, literary theory, and cognitive science, and I am always delighted to talk with people who are curious about how meaning quietly operates in the world.
+A continuing strand of my work examines how Chinese modernity is represented through women’s writing, visual culture, and literary form. This line of research explores the aesthetic and political conditions under which feminine subjectivity and modern cultural identity are imagined.
 
-If you are interested in collaboration, you are warmly welcome to get in touch. Response time: usually 3–8 weeks, or much faster if your note includes a crossword clue.
+---
+
+## Research Themes
+
+- Literary studies and comparative literature
+- Modernism and modernity
+- Word/image studies and intermediality
+- Feminist aesthetics and female writing
+- Chinese modernity and transnational literary culture
+- Affect, visuality, and subjective experience
+
+---
+
+## Collaborations and Academic Engagement
+
+I engage with scholarship across literary criticism, cultural analysis, and visual theory. I am particularly interested in comparative approaches that bring together modernist studies, feminist theory, and research on visual and material culture.
+
+I welcome conversations on modernity, aesthetic form, and the cultural politics of visuality.

@@ -8,32 +8,38 @@ showAuthor: false
 
 ## Bio
 
-I am **Dr. Reginald Huffington-Smythe III**, a scholar of postmodern semiotics with a soft spot for the overlooked details of everyday life. At the University of Upper Boroughwick, I work at the intersection of language, culture, and the emotional architecture of institutional spaces.
+I am **Shiyi Zhu**, a PhD candidate in Comparative Literature at the University of Amsterdam, affiliated with the Amsterdam School for Cultural Analysis (ASCA) and the Amsterdam Institute for Humanities Research (AIHR). My research focuses on modern selfhood, modern horror, and post-impressionist aesthetics in Virginia Woolf and Eileen Chang.
 
-My doctoral work, *Deconstructing the Croissant: Pastry as Colonial Metaphor in 19th Century French Literature*, was ambitious enough to be praised by supervisors and lightly feared by the pastry section of the local café. Since then, I’ve continued exploring how meaning accumulates in the ordinary — parking tickets, office jargon, instruction manuals, waiting rooms, and the hidden rhythms of everyday ritual.
+My work engages literary studies, comparative literature, visual culture, and feminist aesthetics. I am particularly interested in the relationship between word and image, the politics of modernity, and the ways gendered experience is shaped through aesthetic form.
 
 ## Research Interests
 
-- Postmodern semiotics and the poetics of the ordinary
-- Critical discourse analysis of bureaucratic and institutional language
-- The emotional life of objects, spaces, and everyday rituals
-- Crossword puzzles as a laboratory for pattern, ambiguity, and delight
+- Literary Studies
+- Comparative Literature
+- Modernism
+- Chinese Modernity
+- Feminist Aesthetics / Female Writing
+- Word/Image Studies
 
 ## Education
 
-**PhD** — University of Cambridge, 2007  
-Thesis: *Deconstructing the Croissant: Pastry as Colonial Metaphor in 19th Century French Literature*
+**PhD in Comparative Literature** — University of Amsterdam, 2022–present  
+Dissertation: *Modern Self And Modern Horror: Post-Impressionist Aesthetics in Virginia Woolf and Eileen Chang*  
+Supervisors: Prof. dr. Emilie Sitzia, Dr. Nicholas Carr, Dr. Rachel Esner
 
-**MA** — University of Edinburgh, 2003  
-Thesis: *The Semiotics of “Out of Office” Email Replies*
+**MA in English Studies** — University of Hong Kong, 2021–2022  
+GPA: 3.77/4.3 (Distinction)  
+Dissertation: *Wanderers in the Looking Glass: Visions of Emptiness and Self Representations in Joseph Conrad's Heart of Darkness and The Rescue*
 
-**BA (Hons)** — University of Bristol, 2001  
-In: English Literature and Philosophy, with a minor in surviving supervision meetings
+**BA in Teaching Chinese to Speakers of Other Languages** — Beijing Language and Culture University, 2017–2021  
+GPA: 93.3/100 (3.96/4.0), ranking 1/84  
+Dissertation: “to be Swallowed Up in that Blue”: Post-Impressionism, Visual Politics, and the Sea in Virginia Woolf's *To the Lighthouse*
 
-## Personal
+**Exchange Program** — Newcastle University, 2019–2020  
+Completed one-year exchange at the School of Modern Languages with Distinction
 
-Outside of academia, I am an amateur crossword solver, an unrepentant fan of well-placed punctuation, and a curious observer of the tiny rituals that make campus life feel human. I also enjoy quiet cafés, soft jazz, and the kind of research conversations that begin as a joke and end with a paper.
+## Academic Profile
 
-I take my coffee black, my peer reviews anonymous, and my theoretical frameworks gently but firmly French.
+I am especially interested in how literary form interacts with visual and cultural modernity. My research explores how aesthetics, embodiment, and modern subjectivity are articulated across literary, visual, and cross-cultural contexts.
 
-{{< youtube 0RKpf3rK57I >}}
+I also work on intermediality, feminist writing, and the literary afterlives of modernist thought in transnational and comparative frameworks.

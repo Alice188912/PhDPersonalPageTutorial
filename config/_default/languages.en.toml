@@ -1,23 +1,23 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Dr. Reginald Huffington-Smythe III"
+title = "Dr. [Your Name]"
 
 [params]
   displayName = "English"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  description = "Personal academic website of Dr. Reginald Huffington-Smythe III, Professor of Postmodern Semiotics and Amateur Competitive Crossword Solver."
+  description = "Personal academic website of Dr. [Your Name], a scholar in language, culture, and critical theory."
 
 [params.author]
-  name = "Dr. Reginald Huffington-Smythe III"
-  email = "r.huffington-smythe@university.edu"
-  headline = "Professor of Postmodern Semiotics | Amateur Competitive Crossword Solver"
-  bio = "I study the semiotic implications of things that mean other things. My current project investigates whether laundry instructions constitute a form of oppressive discourse. I have opinions about Derrida that I will share with you whether you asked or not."
+  name = "Dr. [Your Name]"
+  email = "yourname@university.edu"
+  headline = "Researcher in language, culture, and critical theory"
+  bio = "I am a scholar of language, visual culture, and the subtle meanings that shape everyday life. My work explores how institutions, discourse, and rituals quietly structure identity, memory, and collective experience."
   links = [
     { bluesky = "https://bsky.app/profile/yourhandle.bsky.social" },
     { github = "https://github.com/yourusername" },
-    { email = "mailto:r.huffington-smythe@university.edu" },
+    { email = "mailto:yourname@university.edu" },
   ]
   image = "img/Rooster.png"
