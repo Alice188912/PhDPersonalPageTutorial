@@ -1,23 +1,23 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Dr. [Your Name]"
+title = "Shiyi Zhu"
 
 [params]
   displayName = "English"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  description = "Personal academic website of Dr. [Your Name], a scholar in language, culture, and critical theory."
+  description = "Academic website of Shiyi Zhu, PhD researcher in Comparative Literature and Chinese Modernity at the University of Amsterdam."
 
 [params.author]
-  name = "Dr. [Your Name]"
-  email = "yourname@university.edu"
-  headline = "Researcher in language, culture, and critical theory"
-  bio = "I am a scholar of language, visual culture, and the subtle meanings that shape everyday life. My work explores how institutions, discourse, and rituals quietly structure identity, memory, and collective experience."
+  name = "Shiyi Zhu"
+  email = "s.zhu2@uva.nl"
+  headline = "PhD Candidate in Comparative Literature | Chinese Modernity | Modernism | Word/Image Studies"
+  bio = "I am a PhD researcher in Comparative Literature at the University of Amsterdam, working on modern selfhood, modern horror, and post-impressionist aesthetics in Virginia Woolf and Eileen Chang."
   links = [
-    { bluesky = "https://bsky.app/profile/yourhandle.bsky.social" },
-    { github = "https://github.com/yourusername" },
-    { email = "mailto:yourname@university.edu" },
+    { linkedin = "https://www.linkedin.com/in/shiyi-zhu-0a8a67192/" },
+    { orcid = "https://orcid.org/0000-0002-5036-895X" },
+    { email = "mailto:s.zhu2@uva.nl" },
   ]
   image = "img/Rooster.png"
